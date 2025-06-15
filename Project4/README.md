@@ -34,6 +34,7 @@
 ├── uploads/               # Временное хранилище загруженных файлов
 ├── ExampleInferenceTrainedModel.ipynb # Пример инференса по обученной модели
 ├── AppTesting.mp4         # Видео отображающее работу приложения
+├── OnMibileTesting.mov    # Видео отображающее работу приложения на смартфоне
 ├── create_content_dataset.py # Создание content.tfrecord
 ├── export_saved_model.py # Экспорт модели
 ├── stylize.py    # Простой тест стилизации
