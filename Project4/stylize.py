@@ -86,7 +86,7 @@ def main():
         print("Max:", output_img.max())
         print("Mean:", output_img.mean())
 
-        # Визуализация, если хочешь (необязательно, но полезно)
+       
         import matplotlib.pyplot as plt
 
         plt.imshow(np.clip(output_img, 0, 1))
