@@ -12,7 +12,7 @@ IMAGE_SIZE = 256
 def load_and_process_image(image_path):
     img = Image.open(image_path).convert('RGB')
     img = img.resize((IMAGE_SIZE, IMAGE_SIZE))
-    img = np.array(img).astype(np.float32)  # Без /255.0
+    img = np.array(img).astype(np.float32)  
     return np.expand_dims(img, axis=0)  # [1, H, W, 3]
 
 @app.route("/", methods=["GET", "POST"])
@@ -35,7 +35,7 @@ def stylize():
             tf.saved_model.loader.load(sess, [tf.saved_model.tag_constants.SERVING], MODEL_PATH)
             graph = tf.get_default_graph()
 
-            # Названия тензоров зависят от экспорта. Примерно такие:
+            
             content_input = graph.get_tensor_by_name("content_input:0")
             style_input = graph.get_tensor_by_name("style_input:0")
             output_tensor = graph.get_tensor_by_name("transformer/expand/conv3/conv/Sigmoid:0")  
