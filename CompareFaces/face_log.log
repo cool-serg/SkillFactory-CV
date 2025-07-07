@@ -1,0 +1,170 @@
+INFO:root:Проверка: distance=0.5814, verified=True
+INFO:root:Проверка: distance=0.1272, verified=True
+INFO:root:Проверка: distance=0.2313, verified=True
+INFO:root:Проверка: distance=0.1850, verified=True
+INFO:root:Проверка: distance=0.2318, verified=True
+INFO:root:Проверка: distance=0.1873, verified=True
+INFO:root:Проверка: distance=0.1832, verified=True
+INFO:root:Проверка: distance=0.2332, verified=True
+INFO:root:Проверка: distance=0.2023, verified=True
+INFO:root:Проверка: distance=0.2522, verified=True
+INFO:root:Проверка: distance=0.2571, verified=True
+INFO:root:Проверка: distance=0.2257, verified=True
+INFO:root:Проверка: distance=0.2591, verified=True
+2025-06-30 17:08:30,716 - Проверка: distance=0.4419, verified=True
+2025-06-30 17:08:34,678 - Проверка: distance=0.3433, verified=True
+2025-06-30 17:08:38,572 - Проверка: distance=0.2915, verified=True
+2025-06-30 17:08:42,580 - Проверка: distance=0.3088, verified=True
+2025-06-30 17:08:47,094 - Проверка: distance=0.6177, verified=True
+2025-06-30 17:08:51,125 - Проверка: distance=0.6075, verified=True
+2025-06-30 17:10:01,666 - Face ID 1 проверено: {'verified': True, 'distance': 0.3899664662489294, 'threshold': 0.68, 'model': 'VGG-Face', 'detector_backend': 'opencv', 'similarity_metric': 'cosine', 'facial_areas': {'img1': {'x': 2647, 'y': 3098, 'w': 126, 'h': 126, 'left_eye': None, 'right_eye': None}, 'img2': {'x': 0, 'y': 0, 'w': 63, 'h': 63, 'left_eye': None, 'right_eye': None}}, 'time': 5.66}
+2025-06-30 17:10:11,877 - Face ID 2 проверено: {'verified': True, 'distance': 0.22608033260394345, 'threshold': 0.68, 'model': 'VGG-Face', 'detector_backend': 'opencv', 'similarity_metric': 'cosine', 'facial_areas': {'img1': {'x': 2647, 'y': 3098, 'w': 126, 'h': 126, 'left_eye': None, 'right_eye': None}, 'img2': {'x': 0, 'y': 0, 'w': 57, 'h': 57, 'left_eye': None, 'right_eye': None}}, 'time': 10.21}
+2025-06-30 17:10:17,583 - Face ID 3 проверено: {'verified': True, 'distance': 0.1988972586439075, 'threshold': 0.68, 'model': 'VGG-Face', 'detector_backend': 'opencv', 'similarity_metric': 'cosine', 'facial_areas': {'img1': {'x': 2647, 'y': 3098, 'w': 126, 'h': 126, 'left_eye': None, 'right_eye': None}, 'img2': {'x': 0, 'y': 0, 'w': 57, 'h': 57, 'left_eye': None, 'right_eye': None}}, 'time': 5.7}
+2025-06-30 17:10:23,063 - Face ID 4 проверено: {'verified': True, 'distance': 0.16913239560655446, 'threshold': 0.68, 'model': 'VGG-Face', 'detector_backend': 'opencv', 'similarity_metric': 'cosine', 'facial_areas': {'img1': {'x': 2647, 'y': 3098, 'w': 126, 'h': 126, 'left_eye': None, 'right_eye': None}, 'img2': {'x': 0, 'y': 0, 'w': 49, 'h': 49, 'left_eye': None, 'right_eye': None}}, 'time': 5.48}
+2025-06-30 17:10:29,111 - Face ID 5 проверено: {'verified': True, 'distance': 0.23781439575040997, 'threshold': 0.68, 'model': 'VGG-Face', 'detector_backend': 'opencv', 'similarity_metric': 'cosine', 'facial_areas': {'img1': {'x': 2647, 'y': 3098, 'w': 126, 'h': 126, 'left_eye': None, 'right_eye': None}, 'img2': {'x': 0, 'y': 0, 'w': 202, 'h': 202, 'left_eye': None, 'right_eye': None}}, 'time': 6.05}
+2025-06-30 17:10:34,430 - Face ID 5 проверено: {'verified': True, 'distance': 0.2389564369051368, 'threshold': 0.68, 'model': 'VGG-Face', 'detector_backend': 'opencv', 'similarity_metric': 'cosine', 'facial_areas': {'img1': {'x': 2647, 'y': 3098, 'w': 126, 'h': 126, 'left_eye': None, 'right_eye': None}, 'img2': {'x': 0, 'y': 0, 'w': 195, 'h': 195, 'left_eye': None, 'right_eye': None}}, 'time': 5.32}
+2025-06-30 17:10:42,777 - Face ID 5 проверено: {'verified': True, 'distance': 0.31986158700388534, 'threshold': 0.68, 'model': 'VGG-Face', 'detector_backend': 'opencv', 'similarity_metric': 'cosine', 'facial_areas': {'img1': {'x': 2647, 'y': 3098, 'w': 126, 'h': 126, 'left_eye': None, 'right_eye': None}, 'img2': {'x': 0, 'y': 0, 'w': 213, 'h': 213, 'left_eye': None, 'right_eye': None}}, 'time': 8.35}
+2025-06-30 17:10:46,786 - Face ID 6 проверено: {'verified': True, 'distance': 0.16319039474656738, 'threshold': 0.68, 'model': 'VGG-Face', 'detector_backend': 'opencv', 'similarity_metric': 'cosine', 'facial_areas': {'img1': {'x': 2647, 'y': 3098, 'w': 126, 'h': 126, 'left_eye': None, 'right_eye': None}, 'img2': {'x': 0, 'y': 0, 'w': 52, 'h': 52, 'left_eye': None, 'right_eye': None}}, 'time': 4.01}
+2025-06-30 17:11:15,383 - Face ID 1 проверено: {'verified': True, 'distance': 0.19191691811872436, 'threshold': 0.68, 'model': 'VGG-Face', 'detector_backend': 'opencv', 'similarity_metric': 'cosine', 'facial_areas': {'img1': {'x': 2647, 'y': 3098, 'w': 126, 'h': 126, 'left_eye': None, 'right_eye': None}, 'img2': {'x': 0, 'y': 0, 'w': 65, 'h': 65, 'left_eye': None, 'right_eye': None}}, 'time': 6.59}
+2025-06-30 17:11:19,484 - Face ID 2 проверено: {'verified': True, 'distance': 0.32788387816597875, 'threshold': 0.68, 'model': 'VGG-Face', 'detector_backend': 'opencv', 'similarity_metric': 'cosine', 'facial_areas': {'img1': {'x': 2647, 'y': 3098, 'w': 126, 'h': 126, 'left_eye': None, 'right_eye': None}, 'img2': {'x': 0, 'y': 3, 'w': 286, 'h': 286, 'left_eye': None, 'right_eye': None}}, 'time': 4.1}
+2025-06-30 17:11:23,779 - Face ID 2 проверено: {'verified': True, 'distance': 0.3616989203355283, 'threshold': 0.68, 'model': 'VGG-Face', 'detector_backend': 'opencv', 'similarity_metric': 'cosine', 'facial_areas': {'img1': {'x': 2647, 'y': 3098, 'w': 126, 'h': 126, 'left_eye': None, 'right_eye': None}, 'img2': {'x': 0, 'y': 1, 'w': 314, 'h': 313, 'left_eye': None, 'right_eye': None}}, 'time': 4.3}
+2025-06-30 17:11:27,821 - Face ID 2 проверено: {'verified': True, 'distance': 0.5197771527410904, 'threshold': 0.68, 'model': 'VGG-Face', 'detector_backend': 'opencv', 'similarity_metric': 'cosine', 'facial_areas': {'img1': {'x': 2647, 'y': 3098, 'w': 126, 'h': 126, 'left_eye': None, 'right_eye': None}, 'img2': {'x': 0, 'y': 0, 'w': 325, 'h': 325, 'left_eye': None, 'right_eye': None}}, 'time': 4.04}
+2025-06-30 17:11:32,061 - Face ID 2 проверено: {'verified': True, 'distance': 0.5756875010660566, 'threshold': 0.68, 'model': 'VGG-Face', 'detector_backend': 'opencv', 'similarity_metric': 'cosine', 'facial_areas': {'img1': {'x': 2647, 'y': 3098, 'w': 126, 'h': 126, 'left_eye': None, 'right_eye': None}, 'img2': {'x': 0, 'y': 0, 'w': 327, 'h': 327, 'left_eye': None, 'right_eye': None}}, 'time': 4.24}
+2025-06-30 17:11:36,213 - Face ID 2 проверено: {'verified': True, 'distance': 0.40057340491619475, 'threshold': 0.68, 'model': 'VGG-Face', 'detector_backend': 'opencv', 'similarity_metric': 'cosine', 'facial_areas': {'img1': {'x': 2647, 'y': 3098, 'w': 126, 'h': 126, 'left_eye': None, 'right_eye': None}, 'img2': {'x': 8, 'y': 8, 'w': 314, 'h': 314, 'left_eye': (184, 130), 'right_eye': (99, 130)}}, 'time': 4.15}
+2025-06-30 17:11:40,313 - Face ID 2 проверено: {'verified': True, 'distance': 0.29680449952404064, 'threshold': 0.68, 'model': 'VGG-Face', 'detector_backend': 'opencv', 'similarity_metric': 'cosine', 'facial_areas': {'img1': {'x': 2647, 'y': 3098, 'w': 126, 'h': 126, 'left_eye': None, 'right_eye': None}, 'img2': {'x': 0, 'y': 0, 'w': 309, 'h': 309, 'left_eye': None, 'right_eye': None}}, 'time': 4.1}
+2025-06-30 17:11:44,403 - Face ID 2 проверено: {'verified': True, 'distance': 0.48141837352817696, 'threshold': 0.68, 'model': 'VGG-Face', 'detector_backend': 'opencv', 'similarity_metric': 'cosine', 'facial_areas': {'img1': {'x': 2647, 'y': 3098, 'w': 126, 'h': 126, 'left_eye': None, 'right_eye': None}, 'img2': {'x': 0, 'y': 0, 'w': 307, 'h': 307, 'left_eye': None, 'right_eye': None}}, 'time': 4.09}
+2025-06-30 17:11:49,240 - Face ID 2 проверено: {'verified': True, 'distance': 0.30977676371404217, 'threshold': 0.68, 'model': 'VGG-Face', 'detector_backend': 'opencv', 'similarity_metric': 'cosine', 'facial_areas': {'img1': {'x': 2647, 'y': 3098, 'w': 126, 'h': 126, 'left_eye': None, 'right_eye': None}, 'img2': {'x': 0, 'y': 0, 'w': 240, 'h': 240, 'left_eye': None, 'right_eye': None}}, 'time': 4.84}
+2025-06-30 17:13:00,873 - Face ID 1 проверено: {'verified': True, 'distance': 0.09821734744781752, 'threshold': 0.68, 'model': 'VGG-Face', 'detector_backend': 'opencv', 'similarity_metric': 'cosine', 'facial_areas': {'img1': {'x': 2647, 'y': 3098, 'w': 126, 'h': 126, 'left_eye': None, 'right_eye': None}, 'img2': {'x': 0, 'y': 0, 'w': 223, 'h': 223, 'left_eye': None, 'right_eye': None}}, 'time': 6.45}
+2025-06-30 17:13:05,401 - Face ID 1 проверено: {'verified': True, 'distance': 0.08464314110782623, 'threshold': 0.68, 'model': 'VGG-Face', 'detector_backend': 'opencv', 'similarity_metric': 'cosine', 'facial_areas': {'img1': {'x': 2647, 'y': 3098, 'w': 126, 'h': 126, 'left_eye': None, 'right_eye': None}, 'img2': {'x': 0, 'y': 0, 'w': 223, 'h': 223, 'left_eye': None, 'right_eye': None}}, 'time': 4.53}
+2025-06-30 17:13:09,421 - Face ID 1 проверено: {'verified': True, 'distance': 0.08157717802782027, 'threshold': 0.68, 'model': 'VGG-Face', 'detector_backend': 'opencv', 'similarity_metric': 'cosine', 'facial_areas': {'img1': {'x': 2647, 'y': 3098, 'w': 126, 'h': 126, 'left_eye': None, 'right_eye': None}, 'img2': {'x': 0, 'y': 0, 'w': 223, 'h': 223, 'left_eye': None, 'right_eye': None}}, 'time': 4.02}
+2025-06-30 17:13:13,588 - Face ID 1 проверено: {'verified': True, 'distance': 0.0805355471558703, 'threshold': 0.68, 'model': 'VGG-Face', 'detector_backend': 'opencv', 'similarity_metric': 'cosine', 'facial_areas': {'img1': {'x': 2647, 'y': 3098, 'w': 126, 'h': 126, 'left_eye': None, 'right_eye': None}, 'img2': {'x': 0, 'y': 0, 'w': 223, 'h': 223, 'left_eye': None, 'right_eye': None}}, 'time': 4.17}
+2025-06-30 17:13:17,705 - Face ID 1 проверено: {'verified': True, 'distance': 0.08099375233586736, 'threshold': 0.68, 'model': 'VGG-Face', 'detector_backend': 'opencv', 'similarity_metric': 'cosine', 'facial_areas': {'img1': {'x': 2647, 'y': 3098, 'w': 126, 'h': 126, 'left_eye': None, 'right_eye': None}, 'img2': {'x': 0, 'y': 0, 'w': 223, 'h': 223, 'left_eye': None, 'right_eye': None}}, 'time': 4.12}
+2025-06-30 17:13:21,772 - Face ID 1 проверено: {'verified': True, 'distance': 0.07676859865716812, 'threshold': 0.68, 'model': 'VGG-Face', 'detector_backend': 'opencv', 'similarity_metric': 'cosine', 'facial_areas': {'img1': {'x': 2647, 'y': 3098, 'w': 126, 'h': 126, 'left_eye': None, 'right_eye': None}, 'img2': {'x': 0, 'y': 0, 'w': 223, 'h': 223, 'left_eye': None, 'right_eye': None}}, 'time': 4.07}
+2025-06-30 17:13:25,935 - Face ID 1 проверено: {'verified': True, 'distance': 0.08257839345925844, 'threshold': 0.68, 'model': 'VGG-Face', 'detector_backend': 'opencv', 'similarity_metric': 'cosine', 'facial_areas': {'img1': {'x': 2647, 'y': 3098, 'w': 126, 'h': 126, 'left_eye': None, 'right_eye': None}, 'img2': {'x': 0, 'y': 0, 'w': 223, 'h': 223, 'left_eye': None, 'right_eye': None}}, 'time': 4.16}
+2025-06-30 17:13:30,118 - Face ID 1 проверено: {'verified': True, 'distance': 0.07715733515090473, 'threshold': 0.68, 'model': 'VGG-Face', 'detector_backend': 'opencv', 'similarity_metric': 'cosine', 'facial_areas': {'img1': {'x': 2647, 'y': 3098, 'w': 126, 'h': 126, 'left_eye': None, 'right_eye': None}, 'img2': {'x': 0, 'y': 0, 'w': 223, 'h': 223, 'left_eye': None, 'right_eye': None}}, 'time': 4.18}
+2025-06-30 17:13:34,321 - Face ID 1 проверено: {'verified': True, 'distance': 0.07603965997334294, 'threshold': 0.68, 'model': 'VGG-Face', 'detector_backend': 'opencv', 'similarity_metric': 'cosine', 'facial_areas': {'img1': {'x': 2647, 'y': 3098, 'w': 126, 'h': 126, 'left_eye': None, 'right_eye': None}, 'img2': {'x': 0, 'y': 0, 'w': 223, 'h': 223, 'left_eye': None, 'right_eye': None}}, 'time': 4.2}
+2025-06-30 17:13:39,468 - Face ID 1 проверено: {'verified': True, 'distance': 0.076832401341549, 'threshold': 0.68, 'model': 'VGG-Face', 'detector_backend': 'opencv', 'similarity_metric': 'cosine', 'facial_areas': {'img1': {'x': 2647, 'y': 3098, 'w': 126, 'h': 126, 'left_eye': None, 'right_eye': None}, 'img2': {'x': 0, 'y': 0, 'w': 223, 'h': 223, 'left_eye': None, 'right_eye': None}}, 'time': 5.15}
+2025-06-30 17:14:00,837 - Face ID 1 проверено: {'verified': True, 'distance': 0.47280779618527535, 'threshold': 0.68, 'model': 'VGG-Face', 'detector_backend': 'opencv', 'similarity_metric': 'cosine', 'facial_areas': {'img1': {'x': 2647, 'y': 3098, 'w': 126, 'h': 126, 'left_eye': None, 'right_eye': None}, 'img2': {'x': 0, 'y': 0, 'w': 223, 'h': 223, 'left_eye': None, 'right_eye': None}}, 'time': 7.35}
+2025-06-30 17:14:06,601 - Face ID 1 проверено: {'verified': True, 'distance': 0.4685140656542033, 'threshold': 0.68, 'model': 'VGG-Face', 'detector_backend': 'opencv', 'similarity_metric': 'cosine', 'facial_areas': {'img1': {'x': 2647, 'y': 3098, 'w': 126, 'h': 126, 'left_eye': None, 'right_eye': None}, 'img2': {'x': 0, 'y': 0, 'w': 223, 'h': 223, 'left_eye': None, 'right_eye': None}}, 'time': 5.76}
+2025-06-30 17:14:12,666 - Face ID 1 проверено: {'verified': True, 'distance': 0.46593016802859477, 'threshold': 0.68, 'model': 'VGG-Face', 'detector_backend': 'opencv', 'similarity_metric': 'cosine', 'facial_areas': {'img1': {'x': 2647, 'y': 3098, 'w': 126, 'h': 126, 'left_eye': None, 'right_eye': None}, 'img2': {'x': 0, 'y': 0, 'w': 223, 'h': 223, 'left_eye': None, 'right_eye': None}}, 'time': 6.06}
+2025-06-30 17:14:25,004 - Face ID 1 проверено: {'verified': True, 'distance': 0.46596095428441053, 'threshold': 0.68, 'model': 'VGG-Face', 'detector_backend': 'opencv', 'similarity_metric': 'cosine', 'facial_areas': {'img1': {'x': 2647, 'y': 3098, 'w': 126, 'h': 126, 'left_eye': None, 'right_eye': None}, 'img2': {'x': 0, 'y': 0, 'w': 223, 'h': 223, 'left_eye': None, 'right_eye': None}}, 'time': 12.34}
+2025-06-30 17:14:30,804 - Face ID 1 проверено: {'verified': True, 'distance': 0.4459571747249459, 'threshold': 0.68, 'model': 'VGG-Face', 'detector_backend': 'opencv', 'similarity_metric': 'cosine', 'facial_areas': {'img1': {'x': 2647, 'y': 3098, 'w': 126, 'h': 126, 'left_eye': None, 'right_eye': None}, 'img2': {'x': 0, 'y': 0, 'w': 223, 'h': 223, 'left_eye': None, 'right_eye': None}}, 'time': 5.8}
+2025-06-30 17:14:36,341 - Face ID 2 проверено: {'verified': True, 'distance': 0.14816182462170824, 'threshold': 0.68, 'model': 'VGG-Face', 'detector_backend': 'opencv', 'similarity_metric': 'cosine', 'facial_areas': {'img1': {'x': 2647, 'y': 3098, 'w': 126, 'h': 126, 'left_eye': None, 'right_eye': None}, 'img2': {'x': 0, 'y': 0, 'w': 223, 'h': 223, 'left_eye': None, 'right_eye': None}}, 'time': 5.54}
+2025-06-30 17:14:40,454 - Face ID 1 проверено: {'verified': True, 'distance': 0.45913170790063174, 'threshold': 0.68, 'model': 'VGG-Face', 'detector_backend': 'opencv', 'similarity_metric': 'cosine', 'facial_areas': {'img1': {'x': 2647, 'y': 3098, 'w': 126, 'h': 126, 'left_eye': None, 'right_eye': None}, 'img2': {'x': 0, 'y': 0, 'w': 223, 'h': 223, 'left_eye': None, 'right_eye': None}}, 'time': 4.11}
+2025-06-30 17:14:44,730 - Face ID 1 проверено: {'verified': True, 'distance': 0.45013481353207185, 'threshold': 0.68, 'model': 'VGG-Face', 'detector_backend': 'opencv', 'similarity_metric': 'cosine', 'facial_areas': {'img1': {'x': 2647, 'y': 3098, 'w': 126, 'h': 126, 'left_eye': None, 'right_eye': None}, 'img2': {'x': 0, 'y': 0, 'w': 223, 'h': 223, 'left_eye': None, 'right_eye': None}}, 'time': 4.28}
+2025-06-30 17:14:48,989 - Face ID 1 проверено: {'verified': True, 'distance': 0.45008056288953646, 'threshold': 0.68, 'model': 'VGG-Face', 'detector_backend': 'opencv', 'similarity_metric': 'cosine', 'facial_areas': {'img1': {'x': 2647, 'y': 3098, 'w': 126, 'h': 126, 'left_eye': None, 'right_eye': None}, 'img2': {'x': 0, 'y': 0, 'w': 223, 'h': 223, 'left_eye': None, 'right_eye': None}}, 'time': 4.26}
+2025-06-30 17:14:53,324 - Face ID 1 проверено: {'verified': True, 'distance': 0.4573254974446084, 'threshold': 0.68, 'model': 'VGG-Face', 'detector_backend': 'opencv', 'similarity_metric': 'cosine', 'facial_areas': {'img1': {'x': 2647, 'y': 3098, 'w': 126, 'h': 126, 'left_eye': None, 'right_eye': None}, 'img2': {'x': 0, 'y': 0, 'w': 223, 'h': 223, 'left_eye': None, 'right_eye': None}}, 'time': 4.33}
+2025-06-30 17:14:57,573 - Face ID 1 проверено: {'verified': True, 'distance': 0.44515826109047185, 'threshold': 0.68, 'model': 'VGG-Face', 'detector_backend': 'opencv', 'similarity_metric': 'cosine', 'facial_areas': {'img1': {'x': 2647, 'y': 3098, 'w': 126, 'h': 126, 'left_eye': None, 'right_eye': None}, 'img2': {'x': 0, 'y': 0, 'w': 223, 'h': 223, 'left_eye': None, 'right_eye': None}}, 'time': 4.25}
+2025-06-30 17:15:01,808 - Face ID 1 проверено: {'verified': True, 'distance': 0.4617170233703206, 'threshold': 0.68, 'model': 'VGG-Face', 'detector_backend': 'opencv', 'similarity_metric': 'cosine', 'facial_areas': {'img1': {'x': 2647, 'y': 3098, 'w': 126, 'h': 126, 'left_eye': None, 'right_eye': None}, 'img2': {'x': 0, 'y': 0, 'w': 223, 'h': 223, 'left_eye': None, 'right_eye': None}}, 'time': 4.24}
+2025-06-30 17:15:06,110 - Face ID 1 проверено: {'verified': True, 'distance': 0.4561860693278361, 'threshold': 0.68, 'model': 'VGG-Face', 'detector_backend': 'opencv', 'similarity_metric': 'cosine', 'facial_areas': {'img1': {'x': 2647, 'y': 3098, 'w': 126, 'h': 126, 'left_eye': None, 'right_eye': None}, 'img2': {'x': 0, 'y': 0, 'w': 223, 'h': 223, 'left_eye': None, 'right_eye': None}}, 'time': 4.29}
+2025-06-30 17:15:10,404 - Face ID 1 проверено: {'verified': True, 'distance': 0.439638157878545, 'threshold': 0.68, 'model': 'VGG-Face', 'detector_backend': 'opencv', 'similarity_metric': 'cosine', 'facial_areas': {'img1': {'x': 2647, 'y': 3098, 'w': 126, 'h': 126, 'left_eye': None, 'right_eye': None}, 'img2': {'x': 0, 'y': 0, 'w': 223, 'h': 223, 'left_eye': None, 'right_eye': None}}, 'time': 4.29}
+2025-06-30 17:15:14,721 - Face ID 1 проверено: {'verified': True, 'distance': 0.42926186975591685, 'threshold': 0.68, 'model': 'VGG-Face', 'detector_backend': 'opencv', 'similarity_metric': 'cosine', 'facial_areas': {'img1': {'x': 2647, 'y': 3098, 'w': 126, 'h': 126, 'left_eye': None, 'right_eye': None}, 'img2': {'x': 0, 'y': 0, 'w': 223, 'h': 223, 'left_eye': None, 'right_eye': None}}, 'time': 4.32}
+2025-06-30 17:16:04,740 - Face ID 1 проверено: {'verified': False, 'distance': 0.7706363642904022, 'threshold': 0.68, 'model': 'VGG-Face', 'detector_backend': 'opencv', 'similarity_metric': 'cosine', 'facial_areas': {'img1': {'x': 33, 'y': 51, 'w': 113, 'h': 113, 'left_eye': None, 'right_eye': None}, 'img2': {'x': 0, 'y': 0, 'w': 223, 'h': 223, 'left_eye': None, 'right_eye': None}}, 'time': 1.17}
+2025-06-30 17:17:41,135 - Face ID 1 проверено: {'verified': False, 'distance': 0.9382540249013712, 'threshold': 0.68, 'model': 'VGG-Face', 'detector_backend': 'opencv', 'similarity_metric': 'cosine', 'facial_areas': {'img1': {'x': 33, 'y': 51, 'w': 113, 'h': 113, 'left_eye': None, 'right_eye': None}, 'img2': {'x': 0, 'y': 0, 'w': 223, 'h': 223, 'left_eye': None, 'right_eye': None}}, 'time': 0.3}
+2025-06-30 17:17:43,867 - Face ID 7 проверено: {'verified': False, 'distance': 0.8358000049629, 'threshold': 0.68, 'model': 'VGG-Face', 'detector_backend': 'opencv', 'similarity_metric': 'cosine', 'facial_areas': {'img1': {'x': 33, 'y': 51, 'w': 113, 'h': 113, 'left_eye': None, 'right_eye': None}, 'img2': {'x': 0, 'y': 0, 'w': 223, 'h': 223, 'left_eye': None, 'right_eye': None}}, 'time': 0.25}
+2025-06-30 17:17:46,220 - Face ID 8 проверено: {'verified': False, 'distance': 0.9277591617616171, 'threshold': 0.68, 'model': 'VGG-Face', 'detector_backend': 'opencv', 'similarity_metric': 'cosine', 'facial_areas': {'img1': {'x': 33, 'y': 51, 'w': 113, 'h': 113, 'left_eye': None, 'right_eye': None}, 'img2': {'x': 0, 'y': 0, 'w': 223, 'h': 223, 'left_eye': None, 'right_eye': None}}, 'time': 0.27}
+2025-06-30 17:17:49,721 - Face ID 11 проверено: {'verified': False, 'distance': 0.921746761697531, 'threshold': 0.68, 'model': 'VGG-Face', 'detector_backend': 'opencv', 'similarity_metric': 'cosine', 'facial_areas': {'img1': {'x': 33, 'y': 51, 'w': 113, 'h': 113, 'left_eye': None, 'right_eye': None}, 'img2': {'x': 0, 'y': 0, 'w': 223, 'h': 223, 'left_eye': None, 'right_eye': None}}, 'time': 0.23}
+2025-06-30 17:18:11,337 - Face ID 12 проверено: {'verified': False, 'distance': 0.9169292021741801, 'threshold': 0.68, 'model': 'VGG-Face', 'detector_backend': 'opencv', 'similarity_metric': 'cosine', 'facial_areas': {'img1': {'x': 33, 'y': 51, 'w': 113, 'h': 113, 'left_eye': None, 'right_eye': None}, 'img2': {'x': 0, 'y': 0, 'w': 223, 'h': 223, 'left_eye': None, 'right_eye': None}}, 'time': 0.25}
+2025-06-30 17:18:17,388 - Face ID 14 проверено: {'verified': False, 'distance': 0.9035677555435577, 'threshold': 0.68, 'model': 'VGG-Face', 'detector_backend': 'opencv', 'similarity_metric': 'cosine', 'facial_areas': {'img1': {'x': 33, 'y': 51, 'w': 113, 'h': 113, 'left_eye': None, 'right_eye': None}, 'img2': {'x': 0, 'y': 0, 'w': 223, 'h': 223, 'left_eye': None, 'right_eye': None}}, 'time': 0.27}
+2025-06-30 17:20:24,872 - Face ID 1 проверено: Distance=0.9362, Match=False
+2025-06-30 17:20:26,940 - Face ID 2 проверено: Distance=0.9215, Match=False
+2025-06-30 17:20:30,920 - Face ID 4 проверено: Distance=0.9069, Match=False
+2025-06-30 17:20:35,186 - Face ID 6 проверено: Distance=0.8307, Match=False
+2025-06-30 17:20:58,399 - Face ID 7 проверено: Distance=0.9432, Match=False
+2025-06-30 17:21:00,439 - Face ID 8 проверено: Distance=0.8517, Match=False
+2025-06-30 17:21:46,336 - Face ID 1 проверено: Distance=0.9339, Match=False
+2025-06-30 17:21:53,103 - Face ID 7 проверено: Distance=0.7737, Match=False
+2025-06-30 17:23:16,192 - Проверка: distance=0.5514, verified=True
+2025-06-30 17:23:36,152 - Проверка: distance=0.5353, verified=True
+2025-06-30 17:50:30,963 - Ошибка DeepFace: Exception while processing img2_path
+2025-06-30 17:50:41,218 - Ошибка DeepFace: Exception while processing img2_path
+2025-06-30 17:50:51,566 - Ошибка DeepFace: Exception while processing img2_path
+2025-06-30 17:50:56,746 - Ошибка DeepFace: Exception while processing img2_path
+2025-06-30 17:53:14,112 - Ошибка DeepFace: Exception while processing img2_path
+2025-06-30 17:53:20,662 - Ошибка DeepFace: Exception while processing img2_path
+2025-06-30 17:53:27,363 - Ошибка DeepFace: Exception while processing img2_path
+2025-06-30 17:53:33,748 - Ошибка DeepFace: Exception while processing img2_path
+2025-06-30 17:53:40,389 - Ошибка DeepFace: Exception while processing img2_path
+2025-06-30 17:53:47,022 - Ошибка DeepFace: Exception while processing img2_path
+2025-06-30 17:53:53,715 - Ошибка DeepFace: Exception while processing img2_path
+2025-06-30 17:58:36,394 - Ошибка DeepFace: verify() got an unexpected keyword argument 'img2'
+2025-06-30 17:58:39,003 - Ошибка DeepFace: verify() got an unexpected keyword argument 'img2'
+2025-06-30 17:58:41,610 - Ошибка DeepFace: verify() got an unexpected keyword argument 'img2'
+2025-06-30 17:58:44,225 - Ошибка DeepFace: verify() got an unexpected keyword argument 'img2'
+2025-06-30 17:58:46,897 - Ошибка DeepFace: verify() got an unexpected keyword argument 'img2'
+2025-06-30 17:58:49,475 - Ошибка DeepFace: verify() got an unexpected keyword argument 'img2'
+2025-06-30 17:58:52,100 - Ошибка DeepFace: verify() got an unexpected keyword argument 'img2'
+2025-06-30 18:00:08,079 - Ошибка DeepFace: verify() got an unexpected keyword argument 'img2'
+2025-06-30 18:00:09,004 - Ошибка DeepFace: verify() got an unexpected keyword argument 'img2'
+2025-06-30 18:00:10,941 - Ошибка DeepFace: verify() got an unexpected keyword argument 'img2'
+2025-06-30 18:00:12,961 - Ошибка DeepFace: verify() got an unexpected keyword argument 'img2'
+2025-06-30 18:00:14,951 - Ошибка DeepFace: verify() got an unexpected keyword argument 'img2'
+2025-06-30 18:00:16,995 - Ошибка DeepFace: verify() got an unexpected keyword argument 'img2'
+2025-06-30 18:00:19,015 - Ошибка DeepFace: verify() got an unexpected keyword argument 'img2'
+2025-06-30 18:00:21,118 - Ошибка DeepFace: verify() got an unexpected keyword argument 'img2'
+2025-06-30 18:00:23,144 - Ошибка DeepFace: verify() got an unexpected keyword argument 'img2'
+2025-06-30 18:00:25,194 - Ошибка DeepFace: verify() got an unexpected keyword argument 'img2'
+2025-06-30 18:00:27,196 - Ошибка DeepFace: verify() got an unexpected keyword argument 'img2'
+2025-06-30 18:00:29,261 - Ошибка DeepFace: verify() got an unexpected keyword argument 'img2'
+2025-06-30 18:00:31,228 - Ошибка DeepFace: verify() got an unexpected keyword argument 'img2'
+2025-06-30 18:00:33,227 - Ошибка DeepFace: verify() got an unexpected keyword argument 'img2'
+2025-06-30 18:00:35,216 - Ошибка DeepFace: verify() got an unexpected keyword argument 'img2'
+2025-06-30 18:00:37,217 - Ошибка DeepFace: verify() got an unexpected keyword argument 'img2'
+2025-06-30 18:00:39,194 - Ошибка DeepFace: verify() got an unexpected keyword argument 'img2'
+2025-06-30 18:00:41,228 - Ошибка DeepFace: verify() got an unexpected keyword argument 'img2'
+2025-06-30 18:00:43,227 - Ошибка DeepFace: verify() got an unexpected keyword argument 'img2'
+2025-06-30 18:00:45,275 - Ошибка DeepFace: verify() got an unexpected keyword argument 'img2'
+2025-06-30 18:00:47,327 - Ошибка DeepFace: verify() got an unexpected keyword argument 'img2'
+2025-06-30 18:00:49,344 - Ошибка DeepFace: verify() got an unexpected keyword argument 'img2'
+2025-06-30 18:00:51,394 - Ошибка DeepFace: verify() got an unexpected keyword argument 'img2'
+2025-06-30 18:00:53,397 - Ошибка DeepFace: verify() got an unexpected keyword argument 'img2'
+2025-06-30 18:00:55,427 - Ошибка DeepFace: verify() got an unexpected keyword argument 'img2'
+2025-06-30 18:00:57,377 - Ошибка DeepFace: verify() got an unexpected keyword argument 'img2'
+2025-06-30 18:00:59,409 - Ошибка DeepFace: verify() got an unexpected keyword argument 'img2'
+2025-06-30 18:01:01,429 - Ошибка DeepFace: verify() got an unexpected keyword argument 'img2'
+2025-06-30 18:01:03,461 - Ошибка DeepFace: verify() got an unexpected keyword argument 'img2'
+2025-06-30 18:03:00,444 - Ошибка DeepFace: verify() got an unexpected keyword argument 'img2'
+2025-06-30 18:03:01,351 - Ошибка DeepFace: verify() got an unexpected keyword argument 'img2'
+2025-06-30 18:03:03,334 - Ошибка DeepFace: verify() got an unexpected keyword argument 'img2'
+2025-06-30 18:03:05,347 - Ошибка DeepFace: verify() got an unexpected keyword argument 'img2'
+2025-06-30 18:03:07,383 - Ошибка DeepFace: verify() got an unexpected keyword argument 'img2'
+2025-06-30 18:03:09,360 - Ошибка DeepFace: verify() got an unexpected keyword argument 'img2'
+2025-06-30 18:03:11,365 - Ошибка DeepFace: verify() got an unexpected keyword argument 'img2'
+2025-06-30 18:03:13,410 - Ошибка DeepFace: verify() got an unexpected keyword argument 'img2'
+2025-06-30 18:03:15,449 - Ошибка DeepFace: verify() got an unexpected keyword argument 'img2'
+2025-06-30 18:03:17,493 - Ошибка DeepFace: verify() got an unexpected keyword argument 'img2'
+2025-06-30 18:03:19,514 - Ошибка DeepFace: verify() got an unexpected keyword argument 'img2'
+2025-06-30 18:03:21,544 - Ошибка DeepFace: verify() got an unexpected keyword argument 'img2'
+2025-06-30 18:03:23,579 - Ошибка DeepFace: verify() got an unexpected keyword argument 'img2'
+2025-06-30 18:03:25,586 - Ошибка DeepFace: verify() got an unexpected keyword argument 'img2'
+2025-06-30 18:03:27,593 - Ошибка DeepFace: verify() got an unexpected keyword argument 'img2'
+2025-06-30 18:03:29,627 - Ошибка DeepFace: verify() got an unexpected keyword argument 'img2'
+2025-06-30 18:03:31,617 - Ошибка DeepFace: verify() got an unexpected keyword argument 'img2'
+2025-06-30 18:03:33,611 - Ошибка DeepFace: verify() got an unexpected keyword argument 'img2'
+2025-06-30 18:03:35,662 - Ошибка DeepFace: verify() got an unexpected keyword argument 'img2'
+2025-06-30 18:03:37,669 - Ошибка DeepFace: verify() got an unexpected keyword argument 'img2'
+2025-06-30 18:03:39,693 - Ошибка DeepFace: verify() got an unexpected keyword argument 'img2'
+2025-06-30 18:03:41,727 - Ошибка DeepFace: verify() got an unexpected keyword argument 'img2'
+2025-06-30 18:03:43,730 - Ошибка DeepFace: verify() got an unexpected keyword argument 'img2'
+2025-06-30 18:03:45,759 - Ошибка DeepFace: verify() got an unexpected keyword argument 'img2'
+2025-06-30 18:03:47,827 - Ошибка DeepFace: verify() got an unexpected keyword argument 'img2'
+2025-06-30 18:03:49,876 - Ошибка DeepFace: verify() got an unexpected keyword argument 'img2'
+2025-06-30 18:03:51,912 - Ошибка DeepFace: verify() got an unexpected keyword argument 'img2'
+2025-06-30 18:03:53,949 - Ошибка DeepFace: verify() got an unexpected keyword argument 'img2'
+2025-06-30 18:03:55,962 - Ошибка DeepFace: verify() got an unexpected keyword argument 'img2'
+2025-06-30 18:04:56,860 - Ошибка DeepFace: verify() got an unexpected keyword argument 'img2'
+2025-06-30 18:04:59,843 - Ошибка DeepFace: verify() got an unexpected keyword argument 'img2'
+2025-06-30 18:05:02,877 - Ошибка DeepFace: verify() got an unexpected keyword argument 'img2'
+2025-06-30 18:05:05,945 - Ошибка DeepFace: verify() got an unexpected keyword argument 'img2'
+2025-06-30 18:05:08,926 - Ошибка DeepFace: verify() got an unexpected keyword argument 'img2'
+2025-06-30 18:05:11,951 - Ошибка DeepFace: verify() got an unexpected keyword argument 'img2'
+2025-06-30 18:05:15,010 - Ошибка DeepFace: verify() got an unexpected keyword argument 'img2'
+2025-06-30 18:05:18,076 - Ошибка DeepFace: verify() got an unexpected keyword argument 'img2'
+2025-06-30 18:05:21,059 - Ошибка DeepFace: verify() got an unexpected keyword argument 'img2'
+2025-06-30 18:05:24,110 - Ошибка DeepFace: verify() got an unexpected keyword argument 'img2'
+2025-06-30 18:05:27,109 - Ошибка DeepFace: verify() got an unexpected keyword argument 'img2'
+2025-06-30 18:05:30,040 - Ошибка DeepFace: verify() got an unexpected keyword argument 'img2'
+2025-06-30 18:05:33,076 - Ошибка DeepFace: verify() got an unexpected keyword argument 'img2'
+2025-06-30 18:05:36,145 - Ошибка DeepFace: verify() got an unexpected keyword argument 'img2'
+2025-06-30 18:07:50,375 - Ошибка DeepFace: verify() got an unexpected keyword argument 'img2'
+2025-06-30 18:07:56,449 - Ошибка DeepFace: verify() got an unexpected keyword argument 'img2'
